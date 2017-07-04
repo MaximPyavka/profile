@@ -1,0 +1,12 @@
+{% extends 'profile/base.html' %}
+
+{% block content %}
+<h2>Profile</h2>
+    {% csrf_token %}
+
+<p> First Name {{ profile.first_name }}</p>
+<p> Last Name {{ profile.last_name }}</p>
+<p> Bio {{ profile.bio }}</p>
+<p> Email {{ profile.email }}</p>
+<p> Birth Date {{ profile.birth_date }}</p>
+{% endblock %}

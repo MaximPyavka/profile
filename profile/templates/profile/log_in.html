@@ -1,0 +1,13 @@
+{% extends 'profile/base.html' %}
+
+{% block content %}
+<h2>Log In</h2>
+<form method="post">
+    {% csrf_token %}
+    Username:<br>
+    <input type="text" name="username"><br>
+    Password:<br>
+    <input type="text" name="password"><br>
+    <button type="submit">Log In</button>
+</form>
+{% endblock %}

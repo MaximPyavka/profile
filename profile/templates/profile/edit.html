@@ -1,0 +1,10 @@
+{% extends 'profile/base.html' %}
+
+{% block content %}
+<h2>Edit Profile</h2>
+<form method="post">
+    {% csrf_token %}
+    {{ pform.as_p }}
+    <button type="submit">Confirm Changes</button>
+</form>
+{% endblock %}

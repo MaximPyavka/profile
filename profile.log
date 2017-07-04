@@ -1,0 +1,287 @@
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.021698
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.014715
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.008814
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.009687
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.007135
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.682153
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.024205
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.117836
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:01.898086
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.013079
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.016315
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.021408
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.013126
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.012918
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.463325
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.828371
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.013415
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.039853, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.015731, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.200275, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.020769, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.443556, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.032511, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.293558, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.605387, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.016678, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.017545, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.021661, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.026257, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.036730, IP - 127.0.0.1
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/">, execution time - 0:00:00.129238, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.012359, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.022567, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.017735, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.011683, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.014767, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.021387, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.024431, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.021527, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.338466, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.719330, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.205135, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.099183, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.108462, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.061601, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.014553, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.059309, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.118952, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.723065, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.249804, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.485970, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.322106, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.951091, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.723704, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.271634, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.085702, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.940859, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.671002, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.191393, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.014649, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.402996, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.050750, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.300728, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.016299, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.669260, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.476535, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.105297, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.094470, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.282883, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.239457, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.385591, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.417670, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.298383, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.221864, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.185130, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:01.386692, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.193503, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.085232, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:01.529403, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.896101, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.396318, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.782862, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.730432, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.560434, IP - 127.0.0.1
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/">, execution time - 0:00:00.614440, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.029695, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.444541, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.258609, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.233807, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.372087, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.566862, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.322892, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.138854, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.017090, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.017372, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.929019, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.022620, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.663826, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.105724, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.929126, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.206688, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:01.102716, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.041196, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.137423, IP - 127.0.0.1
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/">, execution time - 0:00:00.631829, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.026196, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.017411, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.741249, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.038718, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:01.074425, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.509833, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.019431, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:01.085459, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.035236, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.603561, IP - 127.0.0.1
+Request - <HttpResponseForbidden status_code=403, "text/html">, execution time - 0:00:00.036332, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.027085, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.765393, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.031393, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.024890, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.023420, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.334369, IP - 127.0.0.1
+Request - <HttpResponseForbidden status_code=403, "text/html">, execution time - 0:00:00.021896, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.036742, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.017782, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.021993, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.310065, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.049810, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.307442, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.046568, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.124807, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.310012, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.044837, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.126245, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.297539, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.055471, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.033452, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.122927, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.127333, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.335248, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.037683, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.025123, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.130355, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:05.735515, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.020707, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.170385, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.337938, IP - 127.0.0.1
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/">, execution time - 0:00:00.118558, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.015862, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.019323, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.419635, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.014186, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.026233, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.053058, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.141134, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.132003, IP - 127.0.0.1
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/">, execution time - 0:00:00.206281, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.074532, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.064022, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.307997, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.021398, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.105126, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.098758, IP - 127.0.0.1
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/">, execution time - 0:00:00.167087, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.016938, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.022650, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.496861, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.032523, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.065171, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.026490, IP - 127.0.0.1
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/">, execution time - 0:00:00.140245, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.009178, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.042342, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.412361, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.091328, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.026820, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.071491, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.020942, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.044926, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.520629, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.043861, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.042431, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.069654, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.067826, IP - 127.0.0.1
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/">, execution time - 0:00:00.136516, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.009558, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.131844, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.068465, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.069287, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.074210, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.023697, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.014266, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.006834, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.021644, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.084802, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.078735, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.074487, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.067879, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.077791, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.014652, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.016437, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.013330, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.006022, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.009188, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.075559, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.024602, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.083484, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.021797, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.124107, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.386387, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.068229, IP - 127.0.0.1
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/">, execution time - 0:00:00.188480, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.019410, IP - 127.0.0.1
+Request - <HttpResponsePermanentRedirect status_code=301, "text/html; charset=utf-8", url="/admin/">, execution time - 0:00:00.003724, IP - 127.0.0.1
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/admin/login/?next=/admin/">, execution time - 0:00:00.098400, IP - 127.0.0.1
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.255354, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.062499, IP - 127.0.0.1
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/">, execution time - 0:00:00.137510, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.010189, IP - 127.0.0.1
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/admin/login/?next=/admin/">, execution time - 0:00:00.003248, IP - 127.0.0.1
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.057627, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:01.605502, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.470872, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.486926, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.429576, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.774334, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.795903, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.060912, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.553574, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.059314, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.024234, IP - 127.0.0.1
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/admin/login/?next=/admin/">, execution time - 0:00:00.043991, IP - 127.0.0.1
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.138549, IP - 127.0.0.1
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/admin/">, execution time - 0:00:00.469431, IP - 127.0.0.1
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.115449, IP - 127.0.0.1
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.555370, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/javascript">, execution time - 0:00:00.171023, IP - 127.0.0.1
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.068907, IP - 127.0.0.1
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.102582, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/javascript">, execution time - 0:00:00.016172, IP - 127.0.0.1
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.062586, IP - 127.0.0.1
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.286889, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/javascript">, execution time - 0:00:00.017686, IP - 127.0.0.1
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.490017, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/javascript">, execution time - 0:00:00.023127, IP - 127.0.0.1
+Request - <TemplateResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.300411, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.966525, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:01.075381, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.788570, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.496388, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:02.571270, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:02.808016, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:01.304901, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.512475, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.761793, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.771416, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.575923, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.493849, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.480815, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.650069, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.477169, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.469441, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.462901, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.433328, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.360667, IP - 127.0.0.1
+Request - <HttpResponse status_code=500, "text/html">, execution time - 0:00:00.363606, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.043572, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.024445, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.024304, IP - 127.0.0.1
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/">, execution time - 0:00:00.142893, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.007978, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.037505, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.581616, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.820131, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.019144, IP - 127.0.0.1
+Request - <HttpResponseNotFound status_code=404, "text/html">, execution time - 0:00:00.115848, IP - 127.0.0.1
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/">, execution time - 0:00:00.279178, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.044106, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.413121, IP - 127.0.0.1
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/">, execution time - 0:00:00.773845, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.008214, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.033404, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.595865, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.088825, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.029519, IP - 127.0.0.1
+Request - <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/">, execution time - 0:00:00.149754, IP - 127.0.0.1
+Request - <HttpResponse status_code=200, "text/html; charset=utf-8">, execution time - 0:00:00.008620, IP - 127.0.0.1

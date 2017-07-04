@@ -1,0 +1,51 @@
+{% load staticfiles %}
+
+<html>
+<head>
+    <title>Django Girls blog</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body>
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="/">ProfileApp</a>
+        </div>
+        <ul class="nav navbar-nav">
+            {% if user.is_authenticated %}
+            <li><a href="/profile">My Profile</a></li>
+            <li><a href="/edit">Edit Profile</a></li>
+            <li><a href="/log_out">Log Out</a></li>
+            {% else %}
+            <li><a href="/sign_up">Sign Up</a></li>
+            <li><a href="/log_in">Log In</a></li>
+            {% endif %}
+        </ul>
+    </div>
+</nav>
+
+
+<div class="content container">
+    <div class="row">
+        <div class="col-md-8">
+            {% block content %}
+            {% endblock %}
+<!-- {{ SETTINGS.TEMPLATES }} -->
+<!--<script src="http://code.jquery.com/jquery-1.9.1.js"></script>-->
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+<script>
+  $(function() {
+    $( "#id_birth_date" ).datepicker({
+      changeMonth: true,
+      changeYear: true,
+      yearRange: "1900:2012",
+      // You can put more options here.
+
+    });
+  });
+
+</script>
+</body>
+</html>
