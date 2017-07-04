@@ -8,4 +8,5 @@ urlpatterns = [
     url(r'^log_in$', views.log_in, name='log_in'),
     url(r'^edit$', views.edit_profile, name='edit_profile'),
     url(r'^profile$', views.profile, name='profile'),
+
 ]

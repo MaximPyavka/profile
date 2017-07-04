@@ -1,0 +1,5 @@
+{% if object %}
+    <a href="{% url 'admin:auth_user_change' object.id %}">Change User - {{object.username}}</a>
+{% else %}
+     <strong>No Object</strong>
+{% endif %}

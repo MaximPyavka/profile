@@ -60,7 +60,7 @@ def edit_profile(request):
             return redirect('home')
     else:
         pform = UserProfileForm(instance=profile)
-    return render(request, 'profile/edit.html', {'pform': pform})
+    return render(request, 'profile/edit.html', {'pform': pform, "object": request.user})
 
 
 @login_required()
