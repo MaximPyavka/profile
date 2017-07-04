@@ -15,6 +15,7 @@ class Profile(models.Model):
     def __str__(self):
         return self.user.username
 
+
 @receiver(post_save, sender=Profile)
 def model_post_save(sender, **kwargs):
     print("Object created/updated")
